@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/kamera"
+        android:title="Aktifkan Kamera"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/maps"
+        android:title="Lokasi Anda"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/keluar"
+        android:title="Keluar"
+        app:showAsAction="never"/>
+
+</menu>

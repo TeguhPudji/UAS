@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Program Mobile/UAS/app/src/main/res/layout/activity_daftar.xml" value="0.10131712259371833" />
+        <entry key="..\:/Program Mobile/UAS/app/src/main/res/layout/activity_genre.xml" value="0.1" />
+        <entry key="..\:/Program Mobile/UAS/app/src/main/res/layout/activity_kamera.xml" value="0.1" />
+        <entry key="..\:/Program Mobile/UAS/app/src/main/res/layout/activity_keluar.xml" value="0.1" />
+        <entry key="..\:/Program Mobile/UAS/app/src/main/res/layout/activity_maps.xml" value="0.20416666666666666" />
+        <entry key="..\:/Program Mobile/UAS/app/src/main/res/layout/activity_menu.xml" value="0.10131712259371833" />
+        <entry key="..\:/Program Mobile/UAS/app/src/main/res/layout/activity_negara.xml" value="0.17889492753623187" />
+        <entry key="..\:/Program Mobile/UAS/app/src/main/res/layout/activity_pilihan.xml" value="0.11820652173913043" />
+        <entry key="..\:/Program Mobile/UAS/app/src/main/res/layout/activity_tahun.xml" value="0.20416666666666666" />
+        <entry key="..\:/Program Mobile/UAS/app/src/main/res/layout/fragment_baru.xml" value="0.19010416666666666" />
+        <entry key="..\:/Program Mobile/UAS/app/src/main/res/layout/fragment_populer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Program Mobile/UAS/app/src/main/res/layout/list_row.xml" value="0.1" />
+        <entry key="..\:/Program Mobile/UAS/app/src/main/res/menu/optionmenu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
